@@ -1,0 +1,19 @@
+
+body{
+  background-color: rgb(221, 133, 133);
+}
+
+.hehe{
+  display: flex;
+  align-items: center;
+  background-color: bisque;
+}
+.logo{
+  width: 10%;
+  height: 30%;
+}
+.App{
+  margin-top: 15px;
+  background-color: bisque;
+  display: flex;
+}
